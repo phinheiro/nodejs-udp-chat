@@ -1,5 +1,7 @@
-Comando para startar o servidor: node udpserver.js
+A udp chat developed for learning purposes.
 
-Comando para startar o cliente: node udpclient.js
+Start server: node udpserver.js
 
-Fonte: Documentação nodejs, disponível em: https://nodejs.org/dist/latest-v12.x/docs/api/
+Start client: node udpclient.js
+
+References: nodejs docs, available here: https://nodejs.org/dist/latest-v12.x/docs/api/
