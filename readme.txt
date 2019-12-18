@@ -1,9 +1,3 @@
-Instituto Federal do Tocantins
-Aluno: Pedro Pinheiro
-Disciplina: Redes de Computadores
-
-Udp Chat
-
 Comando para startar o servidor: node udpserver.js
 
 Comando para startar o cliente: node udpclient.js
