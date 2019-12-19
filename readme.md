@@ -7,5 +7,5 @@ A simple chat example using nodejs and UDP protocol for learning purposes
 
 please note that the server needs to be started first to register the connection of the clients
 
-### Run clients
+### Run client instances
 > node udpclient.js
